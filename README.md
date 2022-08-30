@@ -7,7 +7,7 @@ Engineer Thesis
     ├─ user-service 
     ├─ api-gateway
     ├─ admin-service
-    └─ news-service
+    └─ [news-service](https://gitlab.com/longpt233/news-service)
 
 - big data
     ├─ message-queue
