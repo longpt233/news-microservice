@@ -3,16 +3,16 @@ Engineer Thesis
 
 # module
 
-- micro service   
-    ├─ user-service    
-    ├─ api-gateway   
-    ├─ admin-service   
-    └─ [news-service](https://gitlab.com/longpt233/news-service)    
+1. micro service   
+    * user-service    
+    * api-gateway   
+    * admin-service   
+    * [news-service](https://gitlab.com/longpt233/news-service)    
 
-- big data    
-    ├─ message-queue    
-    └─ store and analytic    
+2. big data    
+    * message-queue    
+    * store and analytic    
 
-- recommend    
-    └─ recommend-service
+3. recommend    
+    * recommend-service
     
