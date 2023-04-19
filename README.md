@@ -17,7 +17,16 @@ dựng một hệ thống với các chức năng cơ bản của một trang b�
 kèm với hệ thống lưu trữ dữ liệu người dùng cùng hệ gợi ý tin tức.
 ```
 
+![demo](./asset/demo.png)
+
+### usecase
+
+![usecase](./asset/usecase.png)
+
+
 ### module
+
+![module](./asset/module.png)
 
 Gitlab group: https://gitlab.com/news-microservice
 
@@ -31,9 +40,22 @@ Gitlab group: https://gitlab.com/news-microservice
 8. [fe-admin](https://gitlab.com/news-microservice/news-web-app-admin)
 9. [fe-user](https://gitlab.com/news-microservice/news-web-app-client)
 
+
+### tech
+
+![microservice](./asset/micro.png)
+
+![clean architecture](./asset/clean.png)
+
+![AKS](./asset/aks.png)
+
+![hadoop](./asset/hadoop.png)
+
+![naml](./asset/naml.png)
+
 ### keyword
 
 ```
-Hệ gợi ý, dữ liệu lớn, microservice, kafka, CI/CD, K8S
+Hệ gợi ý, Dữ liệu lớn, Microservice, Kafka, CI/CD, K8S, Clean Architecture
 ```
     
